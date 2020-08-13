@@ -7,7 +7,7 @@
 .item-flex {
 	display: flex;
 	align-items: center;
-	margin: 10px
+	margin: 10px;
 }
 
 .introduce-content {
